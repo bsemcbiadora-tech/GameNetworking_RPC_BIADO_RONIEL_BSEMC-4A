@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "GameNetworking_Spawning_BIADO_RONIEL_BSEMC-4A.slnx"
+    "dotnet.defaultSolution": "GameNetworking_RPC_BIADO_RONIEL_BSEMC4A.slnx"
 }
